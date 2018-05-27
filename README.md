@@ -49,7 +49,8 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 
 ## Macromolecular Structure
-- [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/)
+- [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
+macromolecular structure data.
 
 
 ## Populations
