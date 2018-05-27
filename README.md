@@ -42,7 +42,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
 - [Delta](http://delta.big.ac.cn/) - An integrative analysis and visualization platform for 3D genome.
 - [Juicebox](http://aidenlab.org/juicebox/) - Visualization for Hi-C data.
-
+- [TADkit (Example)](http://sgt.cnag.cat/3dg/tadkit/demo.h/index.html#!/project/dataset?conf=assets%2Fexamples%2Fconf.json) - 3D genome browser and TADbit front-end.
 
 ## Metagenomics
 - [Metaviz](http://metaviz.cbcb.umd.edu/) - Interactive statistical and visual analysis of metagenomic data.
