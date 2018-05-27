@@ -7,15 +7,26 @@ For a list of tools aimed at the development of such visualizations, see [awesom
 If you want to [contribute](https://github.com/keller-mark/awesome-biological-visualizations/blob/master/contributing.md) to this list (please do), send a pull request. 
 
 ## Table of Contents
+- [Cancer](#cancer)
 - [Genomics](#genomics)
 - [3D Genomics](#3d-genomics)
-- [Cancer](#cancer)
 - [Metagenomics](#metagenomics)
 - [Epigenomics](#epigenomics)
 - [Proteomics](#proteomics)
 - [Transcriptomics](#transcriptomics)
 - [Populations](#populations)
 - [Health](#health)
+
+
+## Cancer
+- [COSMIC Cancer Browser](https://cancer.sanger.ac.uk/cosmic/browse/tissue) - Browse COSMIC data by tissue type and histology.
+- [UCSC Xena](https://xenabrowser.net/) - Explore functional genomic data sets for correlations between genomic and/or phenotypic variables.
+- [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets. 
+- [iCoMut Beta for FireBrowse](http://firebrowse.org/iCoMut/) - Interactive exploration of mutation rates, mutation signatures, clinical data, gene mutations.
+- [MAGI](http://magi.brown.edu) - Visualization and collaborative annotation of genomic aberrations.
+- [iMuSE](http://imuse.lrgr.io) - Interactive visualization of mutational signatures and hypermutation.
+- [mSignatureDB](http://tardis.cgu.edu.tw/msignaturedb/Browse/) - Explore mutational signature distributions within and across cancer projects.
+- [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
 
 
 ## Genomics
@@ -27,16 +38,6 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
 - [Delta](http://delta.big.ac.cn/) - An integrative analysis and visualization platform for 3D genome.
-
-## Cancer
-- [COSMIC Cancer Browser](https://cancer.sanger.ac.uk/cosmic/browse/tissue) - Browse COSMIC data by tissue type and histology.
-- [UCSC Xena](https://xenabrowser.net/) - Explore functional genomic data sets for correlations between genomic and/or phenotypic variables.
-- [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets. 
-- [iCoMut Beta for FireBrowse](http://firebrowse.org/iCoMut/) - Interactive exploration of mutation rates, mutation signatures, clinical data, gene mutations.
-- [MAGI](http://magi.brown.edu) - Visualization and collaborative annotation of genomic aberrations.
-- [iMuSE](http://imuse.lrgr.io) - Interactive visualization of mutational signatures and hypermutation.
-- [mSignatureDB](http://tardis.cgu.edu.tw/msignaturedb/Browse/) - Explore mutational signature distributions within and across cancer projects.
-- [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
 
 
 ## Metagenomics
