@@ -12,7 +12,6 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Metagenomics](#metagenomics)
 - [Epigenomics](#epigenomics)
 - [Proteomics](#proteomics)
-- [Macromolecular Structure](#macromolecular-structure)
 - [Populations](#populations)
 - [Health](#health)
 
@@ -46,9 +45,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 ## Proteomics
 - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/) - A platform for understanding cancer mutations in the context of 3D protein structure.
-
-
-## Macromolecular Structure
+- [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
 macromolecular structure data.
 
