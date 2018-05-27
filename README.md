@@ -34,9 +34,9 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [UCSC Genome Browser](https://genome.ucsc.edu/) - Interactively visualize genomic data.
 - [Ensembl](http://www.ensembl.org) - A genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation.
 - [IMP: Integrative Multi-species Prediction](http://imp.princeton.edu/) - Analyze your experimental results in the functional context of gene-gene networks from multiple organisms.
-- [PLACNETw](https://castillo.dicom.unican.es/ex1/?unique=58f731fec480a) - A graph-based tool for reconstruction of plasmids from next generation sequence pair-end datasets.
-- [PhyD3](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
-
+- [PLACNETw (Example)](https://castillo.dicom.unican.es/ex1/?unique=58f731fec480a) - A graph-based tool for reconstruction of plasmids from next generation sequence pair-end datasets.
+- [PhyD3 (Example)](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
+- [Archaeopteryx (Example)](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
