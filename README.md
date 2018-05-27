@@ -41,6 +41,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
 - [Delta](http://delta.big.ac.cn/) - An integrative analysis and visualization platform for 3D genome.
+- [Juicebox](http://aidenlab.org/juicebox/) - Visualization for Hi-C data.
 
 
 ## Metagenomics
