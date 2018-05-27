@@ -30,7 +30,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## Metagenomics
 
 - [Metaviz](http://metaviz.cbcb.umd.edu/) - Interactive statistical and visual analysis of metagenomic data.
-
+- [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/) - Explore how genes are expressed across more than 500 individual Plasmodium parasites.
 
 ## Epigenomics
 
