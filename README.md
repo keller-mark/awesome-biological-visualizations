@@ -36,6 +36,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## Epigenomics
 
 - [Epiviz](http://epiviz.cbcb.umd.edu/4/) - Interactive visual analytics for functional genomics data.
+- [Galaxy](https://usegalaxy.org/) - Open source, web-based platform for data intensive biomedical research.
 
 
 ## Proteomics
