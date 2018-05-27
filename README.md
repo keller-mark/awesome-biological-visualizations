@@ -12,6 +12,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Metagenomics](#metagenomics)
 - [Epigenomics](#epigenomics)
 - [Proteomics](#proteomics)
+- [Macromolecular Structure](#macromolecular-structure)
 - [Populations](#populations)
 - [Health](#health)
 
@@ -24,7 +25,6 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 
 ## Cancer
-
 - [COSMIC Cancer Browser](https://cancer.sanger.ac.uk/cosmic/browse/tissue) - Browse COSMIC data by tissue type and histology.
 - [UCSC Xena](https://xenabrowser.net/) - Explore functional genomic data sets for correlations between genomic and/or phenotypic variables.
 - [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets. 
@@ -36,23 +36,28 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 
 ## Metagenomics
-
 - [Metaviz](http://metaviz.cbcb.umd.edu/) - Interactive statistical and visual analysis of metagenomic data.
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/) - Explore how genes are expressed across more than 500 individual Plasmodium parasites.
 
-## Epigenomics
 
+## Epigenomics
 - [Epiviz](http://epiviz.cbcb.umd.edu/4/) - Interactive visual analytics for functional genomics data.
 
 
 ## Proteomics
 - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/) - A platform for understanding cancer mutations in the context of 3D protein structure.
 
+
+## Macromolecular Structure
+- [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/)
+
+
 ## Populations
 - [Nextstrain](https://nextstrain.org/) - Real-time tracking of virus evolution.
 - [Institute for Health Metrics and Evaluation](http://www.healthdata.org/results/data-visualizations)
 - [Lifespans](http://www.cotrino.com/lifespan/) - Visualization of the lifespans of multiple species.
 - [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
+
 
 ## Health
 - [Snake Oil Supplements?](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
