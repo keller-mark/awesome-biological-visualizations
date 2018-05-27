@@ -14,6 +14,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 ## Genomics
 - [UCSC Genome Browser](https://genome.ucsc.edu/) - Interactively visualize genomic data.
+- [WormBase](https://wormbase.org/) - Accurate, current, accessible information concerning the genetics, genomics and biology of C. elegans and related nematodes.
 
 
 ## Cancer
