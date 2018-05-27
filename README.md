@@ -16,7 +16,8 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## Genomics
 - [UCSC Genome Browser](https://genome.ucsc.edu/) - Interactively visualize genomic data.
 - [WormBase](https://wormbase.org/) - Accurate, current, accessible information concerning the genetics, genomics and biology of C. elegans and related nematodes.
-- [IMP: Integrative Multi-species Prediction](http://imp.princeton.edu/) - Analyze your experimental results in the functional context of gene-gene networks from multiple organisms. 
+- [IMP: Integrative Multi-species Prediction](http://imp.princeton.edu/) - Analyze your experimental results in the functional context of gene-gene networks from multiple organisms.
+- [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
 
 
 ## Cancer
