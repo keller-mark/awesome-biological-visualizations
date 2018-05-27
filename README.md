@@ -44,10 +44,10 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/) - A platform for understanding cancer mutations in the context of 3D protein structure.
 
 ## Populations
-- [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
+- [Nextstrain](https://nextstrain.org/) - Real-time tracking of virus evolution.
 - [Institute for Health Metrics and Evaluation](http://www.healthdata.org/results/data-visualizations)
 - [Lifespans](http://www.cotrino.com/lifespan/) - Visualization of the lifespans of multiple species.
-
+- [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
 
 
 ## License
