@@ -27,6 +27,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [iMuSE](http://imuse.lrgr.io) - Interactive visualization of mutational signatures and hypermutation.
 - [mSignatureDB](http://tardis.cgu.edu.tw/msignaturedb/Browse/) - Explore mutational signature distributions within and across cancer projects.
 - [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
+- [OASISPRO](http://tinyurl.com/oasispro) - Omics analysis tool for clinical phenotype prediction.
 
 
 ## Genomics
