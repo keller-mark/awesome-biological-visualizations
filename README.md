@@ -46,6 +46,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 ## Populations
 - [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
 - [Institute for Health Metrics and Evaluation](http://www.healthdata.org/results/data-visualizations)
+- [Lifespans](http://www.cotrino.com/lifespan/) - Visualization of the lifespans of multiple species.
 
 
 
