@@ -49,6 +49,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 
 ## Epigenomics
 - [Epiviz](http://epiviz.cbcb.umd.edu/4/) - Interactive visual analytics for functional genomics data.
+- [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 - [WashU Epigenome Browser](http://epigenomegateway.wustl.edu/) - Displays many sequencing-based data sets across all or part of the genome, on specific gene sets or pathways, and in the context of their metadata.
 - [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) - Browse relative mRNA expression data for cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) by tissue of origin using Clustergrammer.
 
