@@ -35,6 +35,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [PhyD3 (Example)](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
 - [Archaeopteryx (Example)](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
 - [GeneMANIA](http://genemania.org/) - Helps predict the function of genes and gene sets.
+- [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
