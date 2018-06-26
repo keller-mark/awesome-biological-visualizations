@@ -23,7 +23,6 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [iCoMut Beta for FireBrowse](http://firebrowse.org/iCoMut/) - Interactive exploration of mutation rates, mutation signatures, clinical data, gene mutations.
 - [MAGI](http://magi.brown.edu) - Visualization and collaborative annotation of genomic aberrations.
 - [iMuSE](http://imuse.lrgr.io) - Interactive visualization of mutational signatures and hypermutation.
-- [mSignatureDB](http://tardis.cgu.edu.tw/msignaturedb/Browse/) - Explore mutational signature distributions within and across cancer projects.
 - [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
 - [OASISPRO](http://tinyurl.com/oasispro) - Omics analysis tool for clinical phenotype prediction.
 
@@ -35,6 +34,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [PLACNETw (Example)](https://castillo.dicom.unican.es/ex1/?unique=58f731fec480a) - A graph-based tool for reconstruction of plasmids from next generation sequence pair-end datasets.
 - [PhyD3 (Example)](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
 - [Archaeopteryx (Example)](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
+- [GeneMANIA](http://genemania.org/) - Helps predict the function of genes and gene sets.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
