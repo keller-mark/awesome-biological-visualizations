@@ -74,7 +74,7 @@ macromolecular structure data.
 
 ## Medicine
 - [Snake Oil Supplements?](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
-- [SieveSifter](http://sieve.fredhutch.org/viz) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
+- [SieveSifter (Example)](http://sieve.fredhutch.org/viz/index.html?study=VTN503&protein=gag&reference=MRK_B_Ad5) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
 
 
 ## License
