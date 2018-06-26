@@ -53,7 +53,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) - Browse relative mRNA expression data for cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) by tissue of origin using Clustergrammer.
 
 ## Proteomics
-- [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/) - A platform for understanding cancer mutations in the context of 3D protein structure.
+- [COSMIC-3D (Example)](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
 - [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
 macromolecular structure data.
@@ -61,7 +61,7 @@ macromolecular structure data.
 
 ## Transcriptomics
 - [START](https://kcvi.shinyapps.io/START/) -  Visualize RNA-seq data.
-- [ASAP](https://asap.epfl.ch/) - Analysis and interactive visualization of single-cell RNA-seq data.
+- [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
 
 
