@@ -22,7 +22,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets. 
 - [iCoMut Beta for FireBrowse](http://firebrowse.org/iCoMut/) - Interactive exploration of mutation rates, mutation signatures, clinical data, gene mutations.
 - [MAGI](http://magi.brown.edu) - Visualization and collaborative annotation of genomic aberrations.
-- [iMuSE](http://imuse.lrgr.io) - Interactive visualization of mutational signatures and hypermutation.
+- [ExploSig](http://explosig.lrgr.io) - Interactive visualization of mutational signatures and clinical data.
 - [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
 - [OASISPRO](http://tinyurl.com/oasispro) - Omics analysis tool for clinical phenotype prediction.
 
@@ -65,6 +65,7 @@ macromolecular structure data.
 - [START](https://kcvi.shinyapps.io/START/) -  Visualize RNA-seq data.
 - [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
+- [Vitessce](http://vitessce.io) - Visual integration tool for exploration of (spatial) single-cell experiment data.
 
 
 ## Populations
