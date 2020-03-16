@@ -13,6 +13,8 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Proteomics](#proteomics)
 - [Transcriptomics](#transcriptomics)
 - [Spatial transcriptomics](#spatial-transcriptomics)
+- [Connectomics](#connectomics)
+- [Microscopy](#microscopy)
 - [Populations](#populations)
 - [Medicine](#medicine)
 
