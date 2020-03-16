@@ -12,6 +12,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Epigenomics](#epigenomics)
 - [Proteomics](#proteomics)
 - [Transcriptomics](#transcriptomics)
+- [Spatial transcriptomics](#spatial-transcriptomics)
 - [Populations](#populations)
 - [Medicine](#medicine)
 
@@ -65,8 +66,19 @@ macromolecular structure data.
 - [START](https://kcvi.shinyapps.io/START/) -  Visualize RNA-seq data.
 - [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
-- [Vitessce](http://vitessce.io) - Visual integration tool for exploration of (spatial) single-cell experiment data.
+- [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev)
+- [ASAP](https://asap-beta.epfl.ch/projects/ASAP1) - Automated single-cell analysis pipeline.
+- [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
+- [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
 
+## Spatial transcriptomics
+- [Vitessce](http://vitessce.io) - Visual integration tool for exploration of spatial single-cell experiment data.
+
+## Connectomics
+- [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) - Tool for visualization of highly detailed maps of neuronal connectivity in the fly brain.
+
+## Microscopy
+- [IONpath MIBItracker](https://www.ionpath.com/mibitracker/) - Slide and image data.
 
 ## Populations
 - [Nextstrain](https://nextstrain.org/) - Real-time tracking of virus evolution.
