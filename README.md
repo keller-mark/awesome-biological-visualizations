@@ -1,4 +1,4 @@
-# Awesome Biological Visualizations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Biological Visualizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of web-based interactive biological visualizations.
 
@@ -25,7 +25,7 @@ See also [awesome-biology](https://github.com/raivivek/awesome-biology), [awesom
 ## Cancer
 - [COSMIC Cancer Browser](https://cancer.sanger.ac.uk/cosmic/browse/tissue) - Browse COSMIC data by tissue type and histology.
 - [UCSC Xena](https://xenabrowser.net/) - Explore functional genomic data sets for correlations between genomic and/or phenotypic variables.
-- [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets. 
+- [cBioPortal for Cancer Genomics](http://www.cbioportal.org/) - Visualization, analysis and download of large-scale cancer genomics data sets.
 - [iCoMut Beta for FireBrowse](http://firebrowse.org/iCoMut/) - Interactive exploration of mutation rates, mutation signatures, clinical data, gene mutations.
 - [MAGI](http://magi.brown.edu) - Visualization and collaborative annotation of genomic aberrations.
 - [ExploSig](http://explosig.lrgr.io) - Interactive visualization of mutational signatures and clinical data.
@@ -72,7 +72,7 @@ macromolecular structure data.
 ## Spatial transcriptomics
 - [Vitessce](http://vitessce.io) - Visual integration tool for exploration of spatial single-cell experiment data.
 - [Brain mRNA Isoform Atlas](https://isoformatlas.com/) - Visualize cell type signatures of alternative splicing in postnatal development.
-- [AlzMap](https://alzmap.org/) - Spatial transcriptomics in Alzheimer’s disease.
+- [AlzMap](https://alzmap.org/) - Spatial transcriptomics in Alzheimer's disease.
 - [Loom Viewer](http://loom.linnarssonlab.org/dataset/cells/osmFISH/osmFISH_SScortex_mouse_all_cells.loom/NrBEoXQGhYDYoAYLRARigZlRgTDpAtAgFhRnSyg0Wrt1rUVuAHYlCYAOD5AzOo3qNmMAJy8ctaeWAYS0jvNoNqotpO6TSioZgmqmLCTJhNt0ebPCpgAWkQA6RJjgkxYxLkwlMrAKxIjr5wbv7~iKxcaLj~0AIkULhK~DAscpwZxGZJ_LIgigB2AK4ANqVKHIbquqi10LVKsgIl5RxyybFQPIGYGAi4yey4PGjDArjsaAgYaBOJaDy4A3i0C4G4EgbUEmiJmIwYmMnm2E0QQA) - Tool for sharing, browsing and visualizing single-cell data stored in the Loom file format.
 - [TissUUmaps](https://tissuumaps.research.it.uu.se/) - Interactive visualization of large-scale spatial gene expression and tissue morphology data.
 - [Giotto Viewer](http://spatialgiotto.rc.fas.harvard.edu/giotto.viewer.html) - A web-based visualization package for spatial transcriptomic data.
