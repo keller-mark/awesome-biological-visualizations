@@ -35,9 +35,9 @@
 - [UCSC Genome Browser](https://genome.ucsc.edu/) - Interactively visualize genomic data.
 - [Ensembl](http://www.ensembl.org) - A genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation.
 - [IMP: Integrative Multi-species Prediction](http://imp.princeton.edu/) - Analyze your experimental results in the functional context of gene-gene networks from multiple organisms.
-- [PLACNETw (Example)](https://castillo.dicom.unican.es/ex1/?unique=58f731fec480a) - A graph-based tool for reconstruction of plasmids from next generation sequence pair-end datasets.
-- [PhyD3 (Example)](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
-- [Archaeopteryx (Example)](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
+- [PLACNETw](https://castillo.dicom.unican.es/ex1/?unique=58f731fec480a) - A graph-based tool for reconstruction of plasmids from next generation sequence pair-end datasets.
+- [PhyD3](https://phyd3.bits.vib.be/view.php?id=91162629d258a876ee994e9233b2ad87&f=xml) - A phylogenetic tree viewer.
+- [Archaeopteryx](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
 - [GeneMANIA](http://genemania.org/) - Helps predict the function of genes and gene sets.
 - [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
 
@@ -45,7 +45,7 @@
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
 - [Delta](http://delta.big.ac.cn/) - An integrative analysis and visualization platform for 3D genome.
 - [Juicebox](http://aidenlab.org/juicebox/) - Visualization for Hi-C data.
-- [TADkit (Example)](http://sgt.cnag.cat/3dg/tadkit/demo.h/index.html#!/project/dataset?conf=assets%2Fexamples%2Fconf.json) - 3D genome browser and TADbit front-end.
+- [TADkit](http://sgt.cnag.cat/3dg/tadkit/demo.h/index.html#!/project/dataset?conf=assets%2Fexamples%2Fconf.json) - 3D genome browser and TADbit front-end.
 
 ## Metagenomics
 - [Metaviz](http://metaviz.cbcb.umd.edu/) - Interactive statistical and visual analysis of metagenomic data.
@@ -59,7 +59,7 @@
 - [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) - Browse relative mRNA expression data for cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) by tissue of origin using Clustergrammer.
 
 ## Proteomics
-- [COSMIC-3D (Example)](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
+- [COSMIC-3D](https://cancer.sanger.ac.uk/cosmic3d/protein/EGFR) - A platform for understanding cancer mutations in the context of 3D protein structure.
 - [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
 macromolecular structure data.
@@ -77,7 +77,7 @@ macromolecular structure data.
 ## (Non-spatial) Transcriptomics
 - [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
 - [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev)
-- [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
+- [ASAP](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
 - [ASAP](https://asap.epfl.ch/) - Automated single-cell analysis pipeline.
 - [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
@@ -114,4 +114,4 @@ macromolecular structure data.
 
 ## Medicine
 - [Snake Oil Supplements](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
-- [SieveSifter (Example)](http://sieve.fredhutch.org/viz/index.html?study=VTN503&protein=gag&reference=MRK_B_Ad5) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
+- [SieveSifter](http://sieve.fredhutch.org/viz/index.html?study=VTN503&protein=gag&reference=MRK_B_Ad5) - Tool for visualizing the sieve analyses of HIV-1 vaccine efficacy trials.
