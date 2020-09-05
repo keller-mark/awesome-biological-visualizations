@@ -1,6 +1,6 @@
 # Awesome Biological Visualizations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of web-based interactive biological visualizations.
+> A list of web-based interactive biological visualizations.
 
 Please contribute to this list by making a pull request. 
 
