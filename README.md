@@ -11,10 +11,11 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Metagenomics](#metagenomics)
 - [Epigenomics](#epigenomics)
 - [Proteomics](#proteomics)
-- [Transcriptomics](#transcriptomics)
 - [Spatial transcriptomics](#spatial-transcriptomics)
-- [Connectomics](#connectomics)
+- [(Non-spatial) Transcriptomics](#non-spatial-transcriptomics)
 - [Microscopy](#microscopy)
+- [Connectomics](#connectomics)
+- [Metabolomics](#metabolomics)
 - [Populations](#populations)
 - [Medicine](#medicine)
 
@@ -29,6 +30,7 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 - [Race, Gender, and Age in TCGA](https://www.enpicom.com/visual-lab/tcga-visual-exploration-gender-race-age/) - An interactive visualization of patient gender, race, and age in The Cancer Genome Atlas (TCGA) dataset.
 - [OASISPRO](http://tinyurl.com/oasispro) - Omics analysis tool for clinical phenotype prediction.
 - [Signal](https://signal.mutationalsignatures.com/) - Mutational signatures extracted from cancer samples and isogenic cell-based experiments.
+- [Oncoscape](https://oncoscape.sttrcancer.org/) - An integrated suite of analysis tools for users to explore hypotheses related to molecular and clinical data.
 
 
 ## Genomics
@@ -65,23 +67,45 @@ If you want to [contribute](https://github.com/keller-mark/awesome-biological-vi
 macromolecular structure data.
 
 
-## Transcriptomics
-- [START](https://kcvi.shinyapps.io/START/) -  Visualize RNA-seq data.
-- [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
-- [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
-- [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev)
-- [ASAP](https://asap-beta.epfl.ch/projects/ASAP1) - Automated single-cell analysis pipeline.
-- [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
-- [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
-
 ## Spatial transcriptomics
 - [Vitessce](http://vitessce.io) - Visual integration tool for exploration of spatial single-cell experiment data.
+- [Brain mRNA Isoform Atlas](https://isoformatlas.com/) - Visualize cell type signatures of alternative splicing in postnatal development.
+- [AlzMap](https://alzmap.org/) - Spatial transcriptomics in Alzheimer’s disease.
+- [Loom Viewer](http://loom.linnarssonlab.org/dataset/cells/osmFISH/osmFISH_SScortex_mouse_all_cells.loom/NrBEoXQGhYDYoAYLRARigZlRgTDpAtAgFhRnSyg0Wrt1rUVuAHYlCYAOD5AzOo3qNmMAJy8ctaeWAYS0jvNoNqotpO6TSioZgmqmLCTJhNt0ebPCpgAWkQA6RJjgkxYxLkwlMrAKxIjr5wbv7~iKxcaLj~0AIkULhK~DAscpwZxGZJ_LIgigB2AK4ANqVKHIbquqi10LVKsgIl5RxyybFQPIGYGAi4yey4PGjDArjsaAgYaBOJaDy4A3i0C4G4EgbUEmiJmIwYmMnm2E0QQA) - Tool for sharing, browsing and visualizing single-cell data stored in the Loom file format.
+- [TissUUmaps](https://tissuumaps.research.it.uu.se/) - Interactive visualization of large-scale spatial gene expression and tissue morphology data.
+- [Giotto Viewer](http://spatialgiotto.rc.fas.harvard.edu/giotto.viewer.html) - A web-based visualization package for spatial transcriptomic data.
 
-## Connectomics
-- [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) - Tool for visualization of highly detailed maps of neuronal connectivity in the fly brain.
+
+## (Non-spatial) Transcriptomics
+- [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
+- [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev)
+- [ASAP (Example)](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
+- [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
+- [ASAP](https://asap.epfl.ch/) - Automated single-cell analysis pipeline.
+- [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
+- [Mouse Brain Atlas](http://mousebrain.org/) - Atlas of cell types from the Linnarsson Lab.
+- [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Single cell gene expression across species.
+- [Broad Institute Single Cell Portal](https://singlecell.broadinstitute.org/single_cell) - Reducing barriers and accelerating single-cell research.
+- [Allen Brain Map - Transcriptomics Explorer](http://celltypes.brain-map.org/rnaseq/human_m1_10x) - Atlas of human and mouse transcriptomic cell types.
+- [Single Cell VR](https://singlecellvr.herokuapp.com/) - Interactive visualization of single-cell data in virtual reality.
+- [SPRING](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/mouse_HPCs/basal_bone_marrow/full) - A tool for uncovering high-dimensional structure in single-cell gene expression data.
+- [START](https://kcvi.shinyapps.io/START/) -  Shiny Transcriptome Analysis Resource Tool allows users to visualize RNA-seq data starting with count data.
+- [iSEE](https://marionilab.cruk.cam.ac.uk/iSEE_allen/) - The Interactive SummarizedExperiment Explorer.
+
 
 ## Microscopy
 - [IONpath MIBItracker](https://www.ionpath.com/mibitracker/) - Slide and image data.
+- [Avivator](http://avivator.gehlenborglab.org/) - A lightweight "batteries-included" WebGL viewer for remote imaging data in Bio-Formats Zarr or OME-TIFF format.
+
+## Connectomics
+- [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) - Tool for visualization of highly detailed maps of neuronal connectivity in the fly brain.
+- [Allen Mouse Brain Connectivity Atlas](http://connectivity.brain-map.org/) - A high-resolution map of neural connections in the mouse brain.
+- [FlyWire](https://flywire.ai/) - A human-AI collaboration to map the fly connectome.
+
+
+## Metabolomics
+- [Metaspace](https://metaspace2020.eu/) - A platform for metabolite annotation of imaging mass spectrometry data.
+
 
 ## Populations
 - [Nextstrain](https://nextstrain.org/) - Real-time tracking of virus evolution.
