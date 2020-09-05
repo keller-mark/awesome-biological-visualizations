@@ -76,7 +76,7 @@ macromolecular structure data.
 
 ## (Non-spatial) Transcriptomics
 - [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
-- [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev)
+- [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev) - An interactive viewer for single-cell expression.
 - [ASAP](https://asap.epfl.ch/projects/hfl5wd) - Analysis and interactive visualization of single-cell RNA-seq data.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
 - [ASAP](https://asap.epfl.ch/) - Automated single-cell analysis pipeline.
