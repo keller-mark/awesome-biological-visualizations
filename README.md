@@ -1,6 +1,6 @@
 # Awesome Biological Visualizations [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A list of web-based interactive biological visualizations.
+> Interactive visualization of biological data on the web.
 
 Please contribute to this list by making a pull request. 
 
