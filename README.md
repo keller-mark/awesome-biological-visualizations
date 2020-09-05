@@ -2,7 +2,7 @@
 
 A list of web-based interactive biological visualizations.
 
-If you want to [contribute](https://github.com/keller-mark/awesome-biological-visualizations/blob/master/contributing.md) to this list (please do), send a pull request. 
+Please contribute to this list by making a pull request. 
 
 ## Table of Contents
 - [Cancer](#cancer)
