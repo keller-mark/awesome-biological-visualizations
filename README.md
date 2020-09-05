@@ -4,7 +4,7 @@
 
 Please contribute to this list by making a pull request. 
 
-See also [awesome-biology](https://github.com/raivivek/awesome-biology), [awesome-bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics), [awesome-single-cell](https://github.com/seandavi/awesome-single-cell), and [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases).
+See also [awesome-biology](https://github.com/raivivek/awesome-biology#readme), [awesome-cytodata](https://github.com/cytodata/awesome-cytodata#readme), [awesome-bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme), [awesome-single-cell](https://github.com/seandavi/awesome-single-cell#readme), and [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases#readme).
 
 ## Contents
 - [Cancer](#cancer)
