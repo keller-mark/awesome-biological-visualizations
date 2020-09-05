@@ -78,7 +78,7 @@ macromolecular structure data.
 - [cellxgene](https://www.kidneycellatlas.org/mature-kidney-immune) - An interactive explorer for single-cell transcriptomics data.
 - [UCSC Cell Browser](http://cells.ucsc.edu/?ds=cortex-dev) - An interactive viewer for single-cell expression.
 - [L1000FWD](http://amp.pharm.mssm.edu/L1000FWD/) - Large-scale visualization of drug-induced transcriptomic signatures.
-- [ASAP](https://asap.epfl.ch/) - A collaborative portal to analyze single-cell transcriptomics data..
+- [ASAP](https://asap.epfl.ch/) - A collaborative portal to analyze single-cell transcriptomics data.
 - [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
 - [Mouse Brain Atlas](http://mousebrain.org/) - Atlas of cell types from the Linnarsson Lab.
 - [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Single cell gene expression across species.
