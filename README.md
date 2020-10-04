@@ -2,6 +2,8 @@
 
 > Interactive visualization of biological data on the web.
 
+Web-based biology-related visualization tools are often scattered across the internet and difficult to discover. They may be found on GitHub, Twitter, or linked from scientific papers. These tools can be very useful to scientists looking to visualize biological data in the context of diseased or healthy humans or model organisms.
+
 ## Contents
 - [Cancer](#cancer)
 - [Genomics](#genomics)
@@ -88,7 +90,7 @@ macromolecular structure data.
 - [SPRING](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/mouse_HPCs/basal_bone_marrow/full) - A tool for uncovering high-dimensional structure in single-cell gene expression data.
 - [START](https://kcvi.shinyapps.io/START/) -  Shiny Transcriptome Analysis Resource Tool allows users to visualize RNA-seq data starting with count data.
 - [iSEE](https://marionilab.cruk.cam.ac.uk/iSEE_allen/) - The Interactive SummarizedExperiment Explorer.
-- [TISCH](tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
+- [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
 
 ## Microscopy
