@@ -83,7 +83,6 @@ macromolecular structure data.
 - [ASAP](https://asap.epfl.ch/) - A collaborative portal to analyze single-cell transcriptomics data.
 - [SCope](http://scope.aertslab.org/) - A visualization tool for large-scale scRNA-seq datasets.
 - [Mouse Brain Atlas](http://mousebrain.org/) - Atlas of cell types from the Linnarsson Lab.
-- [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Single cell gene expression across species.
 - [Broad Institute Single Cell Portal](https://singlecell.broadinstitute.org/single_cell) - Reducing barriers and accelerating single-cell research.
 - [Allen Brain Map - Transcriptomics Explorer](http://celltypes.brain-map.org/rnaseq/human_m1_10x) - Atlas of human and mouse transcriptomic cell types.
 - [Single Cell VR](https://singlecellvr.herokuapp.com/) - Interactive visualization of single-cell data in virtual reality.
@@ -92,6 +91,10 @@ macromolecular structure data.
 - [iSEE](https://marionilab.cruk.cam.ac.uk/iSEE_allen/) - The Interactive SummarizedExperiment Explorer.
 - [TISCH](http://tisch.comp-genomics.org/home/) - Tumor Immune Single-cell Hub (TISCH) is a scRNA-seq database focusing on tumor microenvironment.
 
+### Gene expression matrices
+- [EBI Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - Single cell gene expression across species.
+- [MORPHEUS](https://software.broadinstitute.org/morpheus/) - Versatile matrix visualization and analysis software.
+- [Clustergrammer](https://maayanlab.cloud/clustergrammer/) - Visualize high-dimensional data as interactive hierarchically clustered heatmaps.
 
 ## Microscopy
 - [IONpath MIBItracker](https://www.ionpath.com/mibitracker/) - Slide and image data.
