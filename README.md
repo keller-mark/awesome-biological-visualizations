@@ -42,6 +42,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Archaeopteryx](http://www.phyloxml.org/archaeopteryx-js/bcl2_js.html) - Visualization, analysis, and editing of phylogenetic trees.
 - [GeneMANIA](http://genemania.org/) - Helps predict the function of genes and gene sets.
 - [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
+- [Coessentiality](coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
