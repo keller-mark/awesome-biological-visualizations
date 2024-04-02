@@ -45,6 +45,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Mutaframe](http://deogen2.mutaframe.com/) - Visualize variants of the human genome.
 - [Coessentiality](http://coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
 - [Gosling](https://gosling.js.org) - A grammar-based toolkit for scalable and interactive genomics data visualization.
+- [chrov](https://github.com/rraadd88/chrov) - Chromosome Visualizations in Python.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
@@ -103,7 +104,9 @@ macromolecular structure data.
 ## Microscopy
 - [IONpath MIBItracker](https://www.ionpath.com/mibitracker/) - Slide and image data.
 - [Avivator](http://avivator.gehlenborglab.org/) - A lightweight "batteries-included" WebGL viewer for remote imaging data in Bio-Formats Zarr or OME-TIFF format.
+- [htsimaging](https://github.com/rraadd88/htsimaging) - Python package for high-throughput single-cell imaging analysis
 
+ 
 ## Connectomics
 - [neuroglancer](https://hemibrain-dot-neuroglancer-demo.appspot.com/#!gs://neuroglancer-janelia-flyem-hemibrain/v1.0/neuroglancer_demo_states/kc_apl_mpn1.json) - Tool for visualization of highly detailed maps of neuronal connectivity in the fly brain.
 - [Allen Mouse Brain Connectivity Atlas](http://connectivity.brain-map.org/) - A high-resolution map of neural connections in the mouse brain.
