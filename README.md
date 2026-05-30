@@ -122,6 +122,7 @@ macromolecular structure data.
 - [Nextstrain](https://nextstrain.org/) - Real-time tracking of virus evolution.
 - [Institute for Health Metrics and Evaluation](http://www.healthdata.org/results/data-visualizations) - Visualizations of disease worldwide.
 - [Lifespans](http://www.cotrino.com/lifespan/) - Visualization of the lifespans of multiple species.
+- [Longevity World Cup](https://longevityworldcup.com/leaderboard) - Interactive leaderboard for biological-age competitors, athlete profiles, biomarker records, and crowd-age estimates.
 - [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
 
 
