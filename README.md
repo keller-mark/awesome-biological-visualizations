@@ -32,6 +32,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [OASISPRO](http://tinyurl.com/oasispro) - Omics analysis tool for clinical phenotype prediction.
 - [Signal](https://signal.mutationalsignatures.com/) - Mutational signatures extracted from cancer samples and isogenic cell-based experiments.
 - [Oncoscape](https://oncoscape.sttrcancer.org/) - An integrated suite of analysis tools for users to explore hypotheses related to molecular and clinical data.
+- [CTD_SIMU_RAI](https://github.com/MarieFG49/CTD_SIMU_RAI) – ODE-based model for thyroglobulin dynamics and patient-specific estimation after radioiodine therapy, with visualization of biomarker trajectories.
 
 
 ## Genomics
