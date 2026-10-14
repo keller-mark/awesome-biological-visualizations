@@ -18,6 +18,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Metabolomics](#metabolomics)
 - [Mass Spectrometry](#mass-spectrometry)
 - [Populations](#populations)
+- [Ecology and Biodiversity](#ecology-and-biodiversity)
 - [Medicine](#medicine)
 
 
@@ -127,6 +128,9 @@ macromolecular structure data.
 - [Lifespans](http://www.cotrino.com/lifespan/) - Visualization of the lifespans of multiple species.
 - [Life Expectancy](http://projects.flowingdata.com/life-expectancy/) - Life expectancies around the world, 1960 to 2009.
 
+
+## Ecology and Biodiversity
+- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-observation evidence visualization for South Korea, with source links and coverage caveats.
 
 ## Medicine
 - [Snake Oil Supplements](http://informationisbeautiful.net/visualizations/snake-oil-scientific-evidence-for-nutritional-supplements-vizsweet/) - Scientific evidence for popular health supplements.
