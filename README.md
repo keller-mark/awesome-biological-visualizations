@@ -46,6 +46,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [Coessentiality](http://coessentiality.net) - A genome-wide almanac of co-essential modules assigns function to uncharacterized genes.
 - [Gosling](https://gosling.js.org) - A grammar-based toolkit for scalable and interactive genomics data visualization.
 - [gbatlas](https://fishka.bio/gbatlas) - Interactive viewer for GenBank/GenPept records: linear and circular feature maps, CDS translation, ORF and restriction-site layers, entirely in the browser.
+- [PlasmidLab](https://plasmidlab.com) - Desktop editor for plasmid and DNA sequence maps: circular and linear feature maps, six-frame translation and restriction-site layers for .dna, GenBank and FASTA files.
 
 ## 3D Genomics
 - [HiGlass](http://higlass.io/) - A tool for exploring genomic contact matrices and tracks.
